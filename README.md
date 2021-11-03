@@ -1,2 +1,2 @@
-# Web-Devlopment-Course
-Starting to web devlopment.
+# Web Devlopment
+Starting to web devlopment world.
