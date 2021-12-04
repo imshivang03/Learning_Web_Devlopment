@@ -1,0 +1,6 @@
+iframes (youtube video adding to the website)
+images
+adding images into the tables
+ordered list
+form
+Line number 51 is the other way to write the submit button which is commented.

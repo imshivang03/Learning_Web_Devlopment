@@ -1,0 +1,5 @@
+heading
+paragraph
+em tag (emphasized text)
+i tag (italic text)
+list introduction (unordered list)
